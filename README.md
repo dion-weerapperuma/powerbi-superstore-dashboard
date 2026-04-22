@@ -1,4 +1,4 @@
-# 📊 Power BI – Global Superstore Sales Dashboard
+# 📊 Power BI (Global Superstore Sales Dashboard)
 
 A Power BI dashboard built using a simulated Global Superstore dataset (2021–2024). I created this project to explore how sales and profitability trends change across regions, customer segments, and shipping methods, and to practise building clean, single-page dashboards for business reporting.
 
